@@ -24,6 +24,11 @@
       "name": "teste 01",
       "price": "99.9",
       "id": 5
+    },
+    {
+      "name": "vasilha",
+      "price": "12.0",
+      "id": 6
     }
   ]
 }
