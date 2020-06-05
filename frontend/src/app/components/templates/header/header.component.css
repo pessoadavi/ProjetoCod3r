@@ -9,3 +9,22 @@
   outline: 0;
   text-decoration: none;  
 }
+
+.title-group {
+  padding-left: 125px;
+  
+}
+
+.title-group a {
+  color: white;
+  text-decoration: none;
+
+}
+
+.title-group i {
+  padding-right: 5px;
+}
+
+.v-middle {
+  vertical-align: middle;
+}
